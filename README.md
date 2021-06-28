@@ -7,4 +7,6 @@ https://data.world/makeovermonday/2020w32
 
 
 Visualization created using Seaborn:
-!(https://github.com/samuelnojadera/benefits-of-remote-working/blob/10264cc4519c6cff8fda1fe433c1ec451df57efe/Benefits%20of%20Remote%20Working.png)
+
+![Benefits of Remote Working](https://user-images.githubusercontent.com/45727935/123566014-53d71380-d7c7-11eb-9055-f6281dcbddf2.png)
+
